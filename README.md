@@ -1,21 +1,17 @@
-# Landing page
+                                                      MyBike
 
-> ❗❗ You will complete this task in the topic **Landing**.
-> Now just choose a design and do the parts from the videos
+This project is a one-page website created for bicycle enthusiasts. It reflects a minimalist style and contains information about different types of bicycles designed for both city riding and sport riding in different conditions.
 
-Choose a design for your landing page:
-- [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-- [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-- [B&O](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0)
-- [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+# Functionality:
 
-Follow the videos in this and next lessons to implement the page block by block
-- Here is [the design from the video](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6703-88&t=L7eKz5YKLN0m5WxR-0) (❗❗ DO NOT implement this design ❗❗ choose one of the options above ❗❗ ☝️)
-- Start writing styles in the `main.scss` file. It is be explained in the `Sass` lesson
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- When done check yourself using the [CHECKLIST](./checklist.md) when finished;
-- Deploy and create a Pull Request with a [DEMO LINK](https://<your_account>.github.io/layout_landing-page/)
+- Responsive design: The site is optimized for viewing on various devices - phones, tablets, and computers. This ensures comfortable viewing of content regardless of the size of the user's screen.
 
-# Tips & Hints
-- Check `background-image: url()` to be relative to the `main.scss`. So should start with `../images`.
-- If some points from the checklist are not relevant to your design, just skip it.
+- Navigation buttons: There are buttons on the page that allow users to easily navigate to the next sections or pages that can be added in the project's future development.
+
+- User form: There is an opportunity for site visitors to send their contact information or requests, which makes the site more interactive and convenient for interaction with the audience.
+
+- Burger menu: The site is navigated through the burger menu, which provides convenient access to all sections and pages of the site without overloading the main interface.
+
+# This project was created to promote information about different bicycle types and promote the cycling culture. It combines minimalist design with practical functionality to maximize the convenience of visitors.
+
+[DEMO LINK](https://ilyasolo881.github.io/layout_landing-page/)
