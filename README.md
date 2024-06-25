@@ -1,4 +1,4 @@
-                                                      MyBike
+## MyBike
 
 This project is a one-page website created for bicycle enthusiasts. It reflects a minimalist style and contains information about different types of bicycles designed for both city riding and sport riding in different conditions.
 
@@ -12,6 +12,6 @@ This project is a one-page website created for bicycle enthusiasts. It reflects 
 
 - Burger menu: The site is navigated through the burger menu, which provides convenient access to all sections and pages of the site without overloading the main interface.
 
-# This project was created to promote information about different bicycle types and promote the cycling culture. It combines minimalist design with practical functionality to maximize the convenience of visitors.
+This project was created to promote information about different bicycle types and promote the cycling culture. It combines minimalist design with practical functionality to maximize the convenience of visitors.
 
 [DEMO LINK](https://ilyasolo881.github.io/layout_landing-page/)
